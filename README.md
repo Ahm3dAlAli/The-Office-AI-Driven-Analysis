@@ -1,6 +1,6 @@
 # 📺 TV Show Ratings Analysis 🎬
 
-Welcome to my TV show ratings analysis project! This project aims to analyze various factors that affect the ratings of TV shows and provide recommendations to NBC Universal to increase their ratings.
+Welcome to my TV show ratings analysis project! This project aims to analyze various factors that affect the ratings of The Office TV show and provide recommendations to NBC Universal to increase their ratings.
 
 ## 📋 Table of Contents
 
